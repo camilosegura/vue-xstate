@@ -1,0 +1,48 @@
+{
+  "cities": [
+    "Bogotá",
+    "Cartagena",
+    "Chicago",
+    "Medellin"
+  ],
+  "addresses": [
+    {
+      "id": 1
+    },
+    {
+      "city": "Cartagena",
+      "address": "hola",
+      "id": 2
+    },
+    {
+      "city": "Cartagena",
+      "address": "Add",
+      "id": 3
+    },
+    {
+      "city": "Cartagena",
+      "address": "dd",
+      "id": 4
+    },
+    {
+      "city": "Medellin",
+      "address": "Addd",
+      "id": 5
+    },
+    {
+      "city": "Medellin",
+      "address": "Addd",
+      "id": 6
+    },
+    {
+      "city": "Chicago",
+      "address": "GG",
+      "id": 7
+    },
+    {
+      "city": "Cartagena",
+      "address": "dddd",
+      "id": 8
+    }
+  ]
+}
